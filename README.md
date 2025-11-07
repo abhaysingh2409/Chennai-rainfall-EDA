@@ -73,8 +73,6 @@ jupyter notebook "Chennai Rainfall.ipynb"
 <div align="center">
 👨‍💻 Developed with ❤️ by Abhay
 
-📍 B.Tech Data Science, SRM KTR
-📫 Connect on LinkedIn
 
 ⭐ If you found this project interesting, consider giving it a star! ⭐
 
